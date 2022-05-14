@@ -4,7 +4,6 @@
 - [Modelo 2 - E-commerce CTA](#-Modelo-2---AudioShop)
 - [Modelo 3 - Recibo](#-Modelo-3---Seu-Pedido)
 - [Modelo 4 - Verificação de conta](#-Modelo-4---Boas-vindas)
-- [Próximas *features*](#-Próximas-*features*)
 
 ## 📑 Sobre
 
@@ -58,15 +57,5 @@ Modelo simulando uma boas-vindas à uma site e verificação de conta.
   <a href="https://aliceribeiro.github.io/email_marketing/mail_mkt_verificacao/mail_mkt_verificacao_conta.html">Acessar demonstração</a>
 </h3>
 
-## 🛠 Próximas *features*
-
-- [ ] Comentários condicionais para fazer alguns trechos de código funcionarem corretamente em alguns *clients*.
-
-- [ ] Realizar teste nos *clients* Gmail Android App, iOS Mail, Google inbox e Outlook.
-
---
-
-<h4>🚧 Em construção...</h4>
-
 ---
-Desenvolvido por Alice Ribeiro ✌
+Desenvolvido por Vitor Borges Vieira ✌
