@@ -11,7 +11,7 @@ Repositório criado com o intúito de servir de modelo e exemplo de e-mails *mar
 
 Quando se trata desse tipo de conteúdo, algumas boas práticas acabam tendo que ficar um pouco mais de lado (💔), dessa forma, o uso de de *tables* e *tables* aninhadas foi usado deliberadamente para atender a maioria dos *clients* de e-mails.
 
-Os *designers* foram desenvolvidos no **Figma** e desenvolvidos em **HTML** puro, sendo assim, uma parte do CSS está dentro do mesmo arquivo dentro da *tag styles* ou *inline*. 
+Os *designers* foram desenvolvidos em **HTML** puro, sendo assim, uma parte do CSS está dentro do mesmo arquivo dentro da *tag styles* ou *inline*. 
 
 Até o momento, os arquivos são compatíveis 100% com o **Gmail**.
 
