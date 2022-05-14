@@ -24,7 +24,7 @@ No corpo do e-mail foi utilizado uma única coluna para a disposição dos eleme
 <img src="https://ik.imagekit.io/aliceribeiro/Bytebank_-_Desktop_e_Mobile_BElb9NjW1.png">
 
 <h3 align="center">
-  <a href="https://aliceribeiro.github.io/email_marketing/mail_mkt_bytebank/mail_mkt_convite.html">Acessar demonstração</a>
+  <a href="https://github.com/vitorborqge/EmailMarketing">Acessar demonstração</a>
 </h3>
 
 ## 📩 Modelo 2 - AudioShop
@@ -34,7 +34,7 @@ Modelo de e-mail simulando uma promoção em um e-commerce, estruturado em um ú
 <img src="https://ik.imagekit.io/aliceribeiro/AudioShop_-_Desktop__img__LhZCSWLc6.png">
 
 <h3 align="center">
-  <a href="https://aliceribeiro.github.io/email_marketing/mail_mkt_audioshop/mail_mkt_audioshop.html">Acessar demonstração</a>
+  <a href="https://github.com/vitorborqge/EmailMarketing">Acessar demonstração</a>
 </h3>
 
 ## 📩 Modelo 3 - Seu Pedido
@@ -44,7 +44,7 @@ Modelo simulando um recibo/nota fiscal.
 <img src="https://ik.imagekit.io/aliceribeiro/Recibo_-_Desktop__img__zNCAxBW1I.png">
 
 <h3 align="center">
-  <a href="https://aliceribeiro.github.io/email_marketing/mail_mkt_recibo/mail_mkt_recibo.html">Acessar demonstração</a>
+  <a href="https://github.com/vitorborqge/EmailMarketing">Acessar demonstração</a>
 </h3>
 
 ## 📩 Modelo 4 - Boas-vindas
@@ -54,7 +54,7 @@ Modelo simulando uma boas-vindas à uma site e verificação de conta.
 <img src="https://ik.imagekit.io/aliceribeiro/Boas-vindas_-_Desktop__img__rneXM8_K_.png">
 
 <h3 align="center">
-  <a href="https://aliceribeiro.github.io/email_marketing/mail_mkt_verificacao/mail_mkt_verificacao_conta.html">Acessar demonstração</a>
+  <a href="https://github.com/vitorborqge/EmailMarketing">Acessar demonstração</a>
 </h3>
 
 ---
